@@ -1,5 +1,9 @@
 # AI Career & Resume Platform
 
+> 🚧 **Work in progress.** This project is still under active development. Features, APIs and the UI may change, and some parts are not finished yet (see [Known limitations](#known-limitations-fine-for-a-portfolio-local-app-fix-before-a-public-launch)).
+>
+> 🚧 **المشروع تحت التعديل** وبيتطوّر باستمرار، فممكن الميزات والواجهة تتغيّر.
+
 منصة ويب لتحليل السيرة الذاتية ومطابقتها مع الوظائف.
 
 ## Structure
