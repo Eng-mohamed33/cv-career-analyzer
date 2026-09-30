@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.tsbuildinfo
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+frontend/.env.local
+backend/*.db
+backend/.jwt_secret
